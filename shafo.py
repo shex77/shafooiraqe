@@ -122,7 +122,7 @@ def cheker():
         url="https://mmo69.com/_check_live_email/api.php?email="+u
         amad=requests.get(url)
         if "DIE" in amad.text:
-            #BO PESHAN DANE AWANAY HACK DABN
+            #shafouraqe
             print("")
             print("============")
             print(u+ " = \033[0;32mHACK ✓ \033[0;37m")
@@ -141,7 +141,7 @@ def cheker():
             print(a)
             print("=============")
             print("")
-            #####ｍｎ ｆｓｈａ ｎｉｍ##
+            #####shafoiraqee##
             
 
 
