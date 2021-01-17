@@ -4,15 +4,15 @@ import datetime
 import time
 import requests
 import sys
-os.system("xdg-open https://www.instagram.com/ani.coder/")
+os.system("xdg-open https://instagram.com/sha_fo_ka?igshid=ilmpby9efzig")
 def emil():
     os.system("clear")
     a='''\033[1;36m
     ##########################
-    #  INSATGRAM \ ani.codwe
-    #  SNAPCHAT  \ vx.dana0
-    #  TELGRAM    \ Danyarr
-    #  Program language Python
+    #  INSATGRAM \ SHAFO.IRAQE
+    #  SNAPCHAT  \ br35308
+    #  TELGRAM    \ shafoiraqe
+    #  Program language iraqe
     #  (:
     # TOOL :  INSTAGRAM HACK
     ##########################
@@ -40,7 +40,7 @@ def chekerinsta():
     os.system("clear")
     season='''\033[1;36m
     ###########
-    @ANI.CODER
+    @shafo.iraqe
     ###########
     \033[1;37m
     
@@ -69,7 +69,7 @@ def chekerinsta():
     'x-instagram-ajax':'a9aec8fa634f',
     'x-requested-with':'XMLHttpRequest'
   }
-    url = "https://www.instagram.com/accounts/login/ajax/"
+    url = "https://instagram.com/sha_fo_ka?igshid=ilmpby9efzig"
     dani=open("instagram.txt", "w")
     for lines in filer:
         time.sleep(1)
@@ -101,7 +101,7 @@ def cheker():
     ani='''\033[0;33m
     ###############
     
-    KURD SAFE TEAM   
+    ＳＨＡＦＯ ＩＲＡＱＥ  
     
     ###############
     
@@ -128,7 +128,7 @@ def cheker():
             print(u+ " = \033[0;32mHACK ✓ \033[0;37m")
             a=datetime.datetime.now()
             print(a)
-            #####Brakam to mazay£######
+            #####ＳＨＡＦＯ ＩＲＡＱＥ£######
             print("============")
             print("")
         else:
@@ -136,12 +136,12 @@ def cheker():
             print("=============")
             print(u+" = \033[1;31mNOT HACK\033[1;37m")
             print(" ")
-            ########ANI.CODER####
+            ########ｓｈａｆｏ.ｉｒａｑｅ####
             a=datetime.datetime.now()
             print(a)
             print("=============")
             print("")
-            #####ahahabdksh##
+            #####ｍｎ ｆｓｈａ ｎｉｍ##
             
 
 
